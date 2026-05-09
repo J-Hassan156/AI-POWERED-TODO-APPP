@@ -1,1 +1,1 @@
-
+ 📝 AI Powered Todo App  A smart and responsive Todo App integrated with AI features to help users manage tasks more efficiently. Built using HTML, CSS, JavaScript, and API integration with a modern interactive interface.
